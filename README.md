@@ -8,6 +8,14 @@ In this project I:
 * Exploratory analysis of our dataset to attain insights into the field of data science in Australia
 * I am currently working on machine learning models to estimate salaries
 
+## Results  
+Results of data scraped from 1000 job ads on glassdorr
+### Job Counts
+![Image_1](https://github.com/joshuadunn1/ds_salary_proj/blob/main/Counts_figure_cropped.png)  
+Add description  
+![Image_1\2](https://github.com/joshuadunn1/ds_salary_proj/blob/main/salary_figure_cropped.png)  
+Add description  
+
 ## Code, Resources, and Reference
 
 _Python Version:_   3.9.13
