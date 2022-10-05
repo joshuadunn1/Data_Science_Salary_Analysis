@@ -9,7 +9,7 @@ In this project I:
 * I am currently working on machine learning models to estimate salaries
 
 ## Results  
-Results of data scraped from 1000 job ads on glassdorr
+Results of data scraped from 1000 job ads on glassdoor.
 ### Job Counts
 ![Image_1](https://github.com/joshuadunn1/ds_salary_proj/blob/main/Counts_figure_cropped.png)  
 Add description  
