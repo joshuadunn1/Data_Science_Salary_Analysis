@@ -8,6 +8,31 @@ In this project I:
 * Exploratory analysis of our dataset to attain insights into the field of data science in Australia
 * I am currently working on machine learning models to estimate salaries
 
+## Web scraping  
+Much of the code from the web scraping repo was deprecated, so I went through and updated the selenium package code. In addition, the html code from glassdoor which the selenium code was pulling the data from was outdated so I went through and tweeked those as well.  
+  
+With each job ad, I got the following.
+* job title  
+* salary estimate
+* rating
+* company name
+* location
+* size
+* founded
+* type of ownership
+* industry
+* sector
+* revenue  
+  
+## Data Cleaning  
+After scraping the data, following Ken Jees tutorial I cleaned up the data so it was more usable for the exploratory data analysis.  
+I made the following changes:
+* Parsed numeric data out of the salary rows
+* Removed rows without salaries
+* Parsed rating out of company text
+* Created column for simplofied job titles and seniority
+* Cleaned location column into specific major cities.
+  
 ## Results  
 Results of data scraped from 1000 job ads on glassdoor.
 ### Job Counts  
