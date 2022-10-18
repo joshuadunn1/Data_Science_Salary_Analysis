@@ -22,6 +22,6 @@ _Python Version:_   3.9.13
 **Packages:**   pandas, numpy, matplotlib, seaborn, selenium
 **For Web Framework Requirements:**   ```pip install -r requirements.txt```  
 **Scraper Github:**  https://github.com/arapfaik/scraping-glassdoor-selenium  
-**Scraper Article:**   https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
-**Kenjee Github:**   https://github.com/PlayingNumbers/ds_salary_proj
-**KenJee Youtube Playlist:**  https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&index=1
+**Scraper Article:**   https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905  
+**Kenjee Github:**   https://github.com/PlayingNumbers/ds_salary_proj  
+**KenJee Youtube Playlist:**  https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&index=1  
